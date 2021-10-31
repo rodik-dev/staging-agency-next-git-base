@@ -70,5 +70,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://staging-agency-next-git-base-c52d0.netlify.app"
 }
